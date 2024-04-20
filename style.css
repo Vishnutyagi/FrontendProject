@@ -9,7 +9,7 @@
     height: 86px;
     background-color: #FCAF02;
     align-items: center;
-    margin-bottom: 0;
+    margin-bottom: 0;aq: ;
 }
 .navigation ul{
     width: 100%;
@@ -94,6 +94,7 @@
 
 /* contact us section */
 .contact{
+    outline: none;
     padding-top: 4%;
     background-color: black;
     width: 100vw;
@@ -109,6 +110,7 @@
     margin-left: 3%;
 }
 .contact form input{
+    outline: none;
     height: 82px;
     background-color: black;
     border: 2px solid #FCAF02;
@@ -164,7 +166,7 @@
 .tablesection table tr td{
     padding: 2% 5% 2%;
 }
-.tablesection table tr:nth-of-type(8){
+.tablesection table tfoot{
     background-color: #FCAF02 !important;
     color: black !important;
 }
