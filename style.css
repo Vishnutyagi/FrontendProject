@@ -9,7 +9,8 @@
     height: 86px;
     background-color: #FCAF02;
     align-items: center;
-    margin-bottom: 0;aq: ;
+    margin-bottom: 0;
+    z-index: 2;
 }
 .navigation ul{
     width: 100%;
@@ -86,6 +87,7 @@
     justify-content: center;
     width: 47%;
     /* margin-right: 8%; */
+    /* z-index: 0; */
 }
 .imgsection img{
     width: 100%;
